@@ -18,7 +18,7 @@
 	<preference name="buildArchitecture" value="arm" />
 	<preference name="android-build-tool" value="gradle" />
 	<preference name="permissions" value="none"/>
-
+        <preference name="android-targetSdkVersion" value="28" />
 	<preference name="disallowOverscroll" value="true" />
 	<preference name="webviewbounce" value="false" />
 
