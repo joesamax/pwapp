@@ -32,7 +32,7 @@
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-    <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.16" />
+        <plugin name="cordova-plugin-x-socialsharing" source="npm" spec="5.4.1" />
 
 
 	<!-- Whitelist policy  -->
