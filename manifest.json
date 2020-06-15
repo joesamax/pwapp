@@ -29,7 +29,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "./",
+    "start_url": "https://alizesdeveloppement.fr/pwa/test/",
     "display": "standalone",
     "background_color": "#65c4ee",
     "theme_color": "#122e4f"
