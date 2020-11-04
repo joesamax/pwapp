@@ -1,1 +1,0 @@
-;define(function(require){'use strict';var e=require('backbone'),n=e.Model.extend({defaults:{id:'',label:'',type:'',link:''}});var l=e.Collection.extend({model:n,});return{MenuItem:n,MenuItems:l}});
